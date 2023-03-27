@@ -1,5 +1,6 @@
 # Unified Instance and Knowledge Alignment Pretraining for Aspect-based Sentiment Analysis
 
+This is the official implementation of our paper, "[Unified Instance and Knowledge Alignment Pretraining for Aspect-based Sentiment Analysis](https://arxiv.org/pdf/2110.13398.pdf)" (in Pytorch).
 ___
 
 ## Requirements
@@ -78,3 +79,14 @@ To have a quick look, we saved the best model weight trained on the target datas
 
 - The pretraining datasets are obtained from www.Kaggle.com.
 
+## Citation
+If you find this work helpful, please consider citing as follows:  
+
+```ruby
+@article{liu2021unified,
+  title={Unified instance and knowledge alignment pretraining for aspect-based sentiment analysis},
+  author={Liu, Juhua and Zhong, Qihuang and Ding, Liang and Jin, Hua and Du, Bo and Tao, Dacheng},
+  journal={arXiv preprint arXiv:2110.13398},
+  year={2021}
+}
+```
